@@ -1,0 +1,5 @@
+Salary_Structure_ID,Salary_per_session_type
+1,"{""Shooting"": 250, ""Defence"":150, ""Rebounding"":160,  ""Passing"":250,  ""Match_Power"":200, ""Fitness "":230, ""Dribbling"":300}"
+2,"{""Shooting"": 370, ""Defence"":270, ""Rebounding"":230,  ""Passing"":450,  ""Match_Power"":215, ""Fitness "":130, ""Dribbling"":350}"
+3,"{""Shooting"": 150, ""Defence"":430, ""Rebounding"":180,  ""Passing"":130,  ""Match_Power"":250, ""Fitness "":330, ""Dribbling"":290}"
+4,"{""Shooting"": 215, ""Defence"":275, ""Rebounding"":390,  ""Passing"":490,  ""Match_Power"":220, ""Fitness "":310, ""Dribbling"":300}"

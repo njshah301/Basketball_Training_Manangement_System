@@ -1,0 +1,97 @@
+Player_ID,Fee_Structure_ID,Mail_ID,Height,Name,Position,Birth_Date,Password,Attendance,Player_Status,Age
+201901,6,arcu.eu.odio@student.nrb,162.34,Fulton Zimmerman,Position,28-09-1998,XyrLIO0Zk0a6,94.54,Active,0
+201902,6,nunc.est@student.nrb,164.2,Jordan Wallace,Power Forward,09-07-1994,6PnAitqR1gTU,90.32,Active,0
+201903,3,sem.ut@student.nrb,165.01,Lareina Green,Small Forward,01-11-1994,8PQ4YqgwazzD,90.99,Inactive,0
+201904,2,fermentum.metus@student.nrb,160.71,Tatiana Bradford,Power Forward,23-06-1994,iyBlbDrTpgUA,92.74,Active,0
+201905,6,laoreet.libero@student.nrb,164.83,Conan Shields,Small Forward,20-10-1999,nB9eq6IwMpNA,92.46,Active,0
+201906,2,scelerisque.neque@student.nrb,161.17,Aurelia Perkins,Point Guard,22-05-2000,2sY3Ry0gCkPy,87.6,Inactive,0
+201907,5,sit.amet.luctus@student.nrb,161.36,Kaseem Hickman,Power Forward,26-04-1996,G26eUKAaVTSS,91.55,Active,0
+201908,2,id.blandit@student.nrb,162.09,Regina Hatfield,Center,14-12-1992,79UfRNhHKBOy,87.76,Active,0
+201909,4,nec.cursus@student.nrb,165.46,Oleg Mccarthy,Point Guard,15-08-1990,7wh7uzVHKISj,88.79,Active,0
+201910,7,ut.quam@student.nrb,162.75,Kibo Allen,Point Guard,23-08-1993,I0BOdPtW1l7w,91.69,Active,0
+201911,4,quis.pede@student.nrb,156.86,Coby Pickett,Center,14-01-2003,X51wLor8EaMv,86.77,Active,0
+201912,5,interdum.curabitur@student.nrb,166.33,Madaline Moore,Center,23-04-1997,JYVUqnGlSGYF,87.27,Active,0
+201913,6,dignissim.lacus@student.nrb,164.87,Kenyon Rose,Point Guard,10-07-2001,rK1Y9fkJA9OA,90.51,Active,0
+201914,3,justo@student.nrb,153.65,Kirsten Hartman,Power Forward,28-03-2001,QI2EFe2dEH3P,87.24,Active,0
+201915,5,vulputate.risus.a@student.nrb,153.43,Florence Duncan,Center,07-02-1995,1EwoqPWYQZsb,91.43,Active,0
+201916,2,duis.risus@student.nrb,168.19,Tanner Berry,Power Forward,11-01-1996,Griwp5Vi2jJa,91.69,Active,0
+201917,1,turpis.non@student.nrb,161.56,Winifred Malone,Small Forward,20-11-1995,g6yENs5kzxvf,90.16,Active,0
+201918,6,amet.dapibus@student.nrb,160.92,Wanda Riddle,Shooting Guard,11-01-1994,oi4EXxveD00p,92.16,Inactive,0
+201919,2,in.mi.pede@student.nrb,156.5,Ahmed Delgado,Power Forward,03-02-1993,msPonKpbdgcx,87.52,Active,0
+201920,6,tortor.nunc@student.nrb,161.7,Urielle David,Shooting Guard,30-10-2004,NDYQufMwAdiQ,88.94,Active,0
+201921,2,vestibulum.mauris@student.nrb,153.98,Leroy Kent,Small Forward,08-01-1999,ywVlQBbCYaLH,92.38,Active,0
+201922,6,eget.volutpat@student.nrb,153.66,Shad Kemp,Point Guard,28-10-2000,31SjfEZ78GLT,89.15,Active,0
+201923,5,in.mi@student.nrb,166.23,Hilel Parker,Shooting Guard,02-03-1996,KySU9wbhVEN9,91.16,Active,0
+201924,6,vitae.nibh@student.nrb,164.07,Gray Parrish,Point Guard,24-01-1990,5iLLVsrPKCx4,89.33,Active,0
+201925,2,risus@student.nrb,170.87,Lisandra Walter,Small Forward,17-06-1998,xAYayazEdwmw,88.55,Active,0
+201926,5,nullam.lobortis@student.nrb,155.96,Avram Carpenter,Point Guard,23-10-2004,sz3AyNnOVRYk,88.14,Inactive,0
+201927,7,nunc.nulla@student.nrb,162.82,Harding Barrera,Shooting Guard,31-08-1994,fHJYsBK0kLU1,88.93,Active,0
+201928,4,vehicula@student.nrb,154.17,Cole Hunter,Small Forward,12-01-2003,TqA6yAOVSdlU,90.61,Active,0
+201929,5,hendrerit.neque@student.nrb,163.98,Doris Avila,Shooting Guard,23-11-1996,zYQwvWwotrFy,90.3,Active,0
+201930,3,mauris.non@student.nrb,165.97,Yvonne Hardy,Point Guard,05-02-1994,oRYvXr0C6GF6,93.98,Active,0
+201931,5,penatibus.et.magnis@student.nrb,159.42,Nicole Roberson,Shooting Guard,10-11-1994,esEIRQStVd27,88.92,Active,0
+201932,4,vitae@student.nrb,163.84,Vladimir Owen,Small Forward,08-08-1997,KbDwvboayzfb,92.9,Active,0
+201933,2,donec.felis.orci@student.nrb,162.16,Malik Weaver,Power Forward,30-04-1996,CzbkxPd6GIaU,91.05,Active,0
+201934,3,libero@student.nrb,158.39,Emma Cox,Power Forward,10-10-1999,aSg8Q9kOL3h3,85.93,Active,0
+201935,4,porttitor.tellus@student.nrb,167.03,Adele Montgomery,Power Forward,18-12-2002,Or5DMVJW2Acm,88.58,Active,0
+201936,2,elit.etiam@student.nrb,160.79,Alice Vincent,Shooting Guard,02-01-1995,3pSRLWE8TlGV,92.54,Active,0
+201937,3,eu@student.nrb,154.47,Oliver Irwin,Small Forward,08-08-1991,Ptgpn6z52rtf,93.18,Active,0
+201938,5,eget.massa.suspendisse@student.nrb,150.79,Mollie Sears,Power Forward,07-07-1996,pYrKKse1Rnr4,100,Active,0
+201939,2,sit.amet@student.nrb,158.96,Emerald Chandler,Shooting Guard,22-09-2002,EH1ztPXHL2K4,92.16,Active,0
+201940,1,convallis@student.nrb,161.77,Baxter Adams,Center,23-02-2002,uzMu3bf9V4Qa,91.16,Active,0
+201941,5,metus.sit.amet@student.nrb,159.92,Lacota Foley,Point Guard,10-12-1990,rJuhx3XIf5kX,89.89,Active,0
+201942,6,dis@student.nrb,157.46,Raven Ballard,Center,22-10-1990,ctz5c9aNtMhd,87.44,Active,0
+201943,5,pellentesque.habitant@student.nrb,155.28,Seth Cash,Shooting Guard,04-03-2001,tU9sQMURXHVw,90.99,Injured,0
+201944,4,massa.vestibulum@student.nrb,159.93,Halla Frost,Shooting Guard,14-07-2003,nUoItpWul8bE,89.18,Active,0
+201945,4,mi.tempor@student.nrb,159.58,Arsenio Figueroa,Point Guard,11-05-1995,IKMxdKIIK0QB,89.08,Active,0
+201946,6,posuere.vulputate.lacus@student.nrb,165.74,Emma Atkins,Point Guard,22-10-1998,4yEGTU7yGbKo,94.37,Active,0
+201947,3,in@student.nrb,155.13,Michael Hoover,Shooting Guard,03-06-1997,uUvTsRx68LLa,88.45,Active,0
+201948,3,arcu.eu@student.nrb,156.58,Tyler Duncan,Shooting Guard,12-11-2000,diw9qITmWZzD,91.9,Active,0
+201949,7,vel.nisl@student.nrb,156.44,Zahir England,Small Forward,14-01-1996,oJSrvEo2ffVq,95.79,Active,0
+201950,3,sit@student.nrb,158.39,Marcia Hurley,Shooting Guard,26-08-1993,z93dHz6dMGM4,88.88,Active,0
+201951,3,aliquet.metus.urna@student.nrb,158.05,Hammett Walls,Center,14-11-1992,V0A5nKBkd1pt,92.92,Active,0
+201952,4,eu.placerat@student.nrb,154.73,Armand Pace,Shooting Guard,05-03-1992,fuwTrmHVGsy5,91.26,Active,0
+201953,2,aliquam.adipiscing.lobortis@student.nrb,163.01,Troy Castaneda,Point Guard,28-12-1991,a0NEIzH7zkhx,87.9,Active,0
+201954,2,metus.vivamus.euismod@student.nrb,152.57,Ruth Melton,Point Guard,27-06-1993,EsajWbcN4FO1,95.45,Active,0
+201955,1,odio.tristique@student.nrb,171.5,Lila Stokes,Small Forward,17-10-1992,GJuudbqIoKpx,93.3,Active,0
+201956,4,condimentum@student.nrb,158.25,Alfreda Mcpherson,Point Guard,08-04-1998,KiHRFr5sgMUU,92.58,Active,0
+201957,1,facilisis@student.nrb,159.01,Ulla Witt,Small Forward,23-02-1998,iMgdy6AgrJ0n,88.01,Active,0
+201958,3,at.lacus.quisque@student.nrb,160.5,Reagan Wall,Shooting Guard,10-07-1995,eBtsVLEU1YoR,89.3,Active,0
+201959,4,ultrices.iaculis.odio@student.nrb,158.47,Kaye Crane,Power Forward,01-02-1993,K1uH6r1plwrT,87.51,Active,0
+201960,4,nullam.scelerisque@student.nrb,158.47,Tyrone Salas,Shooting Guard,04-02-1993,vwOKVbepW908,91.92,Injured,0
+201961,5,lorem@student.nrb,156.31,Keith Guthrie,Center,18-12-2002,4driEvBjlWsb,91.62,Active,0
+201962,2,aliquet.lobortis@student.nrb,156.92,Caryn Fitzpatrick,Center,12-08-2004,jA2CnCAuyRrB,91.44,Active,0
+201963,7,sem.magna@student.nrb,162.53,Fredericka Mendez,Shooting Guard,02-02-2002,nMPXe01xS1QT,90,Active,0
+201964,5,fusce@student.nrb,163.15,Kai Schroeder,Point Guard,17-04-1996,rXlZYw39pWSt,90.89,Active,0
+201965,6,pede.suspendisse@student.nrb,159.85,Galvin Downs,Point Guard,01-08-1996,07ej7vKtWUB2,90.02,Active,0
+201966,4,duis@student.nrb,157.1,Lael Powers,Point Guard,21-02-1995,NhzXFIUaM8O5,89.29,Active,0
+201967,4,eget.magna@student.nrb,154.4,Kyla Thompson,Center,05-01-1991,4S6sXw6FYu7D,87.05,Active,0
+201968,2,lacinia@student.nrb,162.7,Graham Hopper,Small Forward,01-07-1999,puhBW3VAh5ZR,88.17,Active,0
+201969,5,massa.quisque@student.nrb,160.11,Tucker Brennan,Shooting Guard,08-07-1991,wmzrNvF2fy0t,86.5,Active,0
+201970,5,porta.elit@student.nrb,158.9,Asher Levy,Power Forward,10-10-1995,5L2Web9ItyQN,89.66,Active,0
+201971,6,egestas@student.nrb,161.44,Adele Hopper,Small Forward,19-08-2002,Go9N1LBlsEMO,89.18,Active,0
+201972,6,faucibus@student.nrb,158.18,Melissa Morin,Point Guard,12-10-1999,fqV3ZoizX8YA,92.3,Active,0
+201973,3,sem.mollis.dui@student.nrb,162.9,Bree Workman,Center,10-04-1996,SaA8pKIG85Nv,90.8,Active,0
+201974,4,elit@student.nrb,157.36,Martin Williams,Power Forward,12-11-1996,xKnhPVu3pBxH,87.72,Active,0
+201975,5,nunc.risus@student.nrb,152.51,Miranda Murray,Point Guard,21-03-1997,xYMHMzyvbCAX,91.08,Active,0
+201976,5,eu.dolor@student.nrb,157.91,Shelby Hester,Point Guard,31-05-1994,Sg7Ptqrglr6Y,91.05,Active,0
+201977,3,est@student.nrb,162.51,Derek Battle,Small Forward,27-11-1999,mt5ETLRhG2BO,90.92,Active,0
+201978,6,dis.parturient@student.nrb,152.53,Burton Lane,Small Forward,06-06-1995,10u1O0RGWrBB,90.35,Active,0
+201979,4,augue.eu@student.nrb,161.8,Xaviera Aguilar,Small Forward,18-02-1992,Fftc4hUTpOno,87.9,Active,0
+201980,3,id1.blandit@student.nrb,166.22,Unity Mcbride,Small Forward,30-09-2004,zGyD6xC3QAoD,88.6,Active,0
+201981,6,diam.vel.arcu@student.nrb,157.31,Harrison Bernard,Point Guard,28-06-2003,4SWeeApiyqWq,87.55,Active,0
+201982,6,facilisis.non@student.nrb,161.41,Luke Hancock,Power Forward,03-07-2004,zpfCJt4j3nIj,90.05,Active,0
+201983,1,ligula.aenean.gravida@student.nrb,158.64,Lillith Stevenson,Power Forward,14-10-2002,yWB9R4rrT8Nf,86.91,Active,0
+201984,2,luctus@student.nrb,164.07,Brent Martin,Small Forward,07-11-1997,zb5hB0scp84r,88.65,Active,0
+201985,7,donec.nibh@student.nrb,168.89,Acton Strickland,Power Forward,12-02-2004,amKWG976nCTK,93.08,Active,0
+201986,6,et@student.nrb,169.84,Rhoda O'connor,Shooting Guard,18-10-2002,FkRu9iwJM6cW,89.68,Active,0
+201987,4,nunc.sit@student.nrb,159.28,Grant Cruz,Shooting Guard,12-02-1993,2xTxTU6XHZle,93.47,Active,0
+201988,6,consequat.dolor.vitae@student.nrb,155.11,Ruby Hudson,Power Forward,16-07-1994,0u7hBfBEFEIm,88.86,Active,0
+201989,6,malesuada.fames.ac@student.nrb,160.56,Zachery Richard,Power Forward,04-02-1991,1jBjm9KxJtwZ,92.12,Active,0
+201990,2,mi.fringilla.mi@student.nrb,162.39,Teagan Mccullough,Small Forward,07-01-2003,LJiMs0deMApa,89.8,Active,0
+201991,3,ligula@student.nrb,150.68,Derek Cline,Small Forward,18-09-1999,6m1GhcPjuEjL,90.27,Active,0
+201992,3,scelerisque@student.nrb,166.89,Britanni Hebert,Shooting Guard,13-04-1992,7Q5Z2XL5lzI8,95.39,Active,0
+201993,1,nec@student.nrb,163.35,Kyle Holmes,Point Guard,22-07-1994,vbVCVm0ymAUk,91.28,Active,0
+201994,4,commodo.auctor.velit@student.nrb,148.11,Kelly Hawkins,Power Forward,27-04-1995,7tTPqo3EasXa,92.31,Active,0
+201995,1,mauris@student.nrb,158.98,Maggie Foster,Center,30-09-2002,XOMMlQk7qKYc,91.11,Active,0
+201996,6,blandit.congue.in@student.nrb,170.1,Sara Gibson,Point Guard,06-07-1993,zRADmXYTK2AF,90.88,Active,0

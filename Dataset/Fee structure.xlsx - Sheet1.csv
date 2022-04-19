@@ -1,0 +1,8 @@
+Fee_Structure_ID,Fees_per_session_type
+1,"{""Shooting"": 250, ""Defence"":150, ""Rebounding"":160,  ""Passing"":250,  ""Match_Power"":200, ""Fitness "":230, ""Dribbling"":300}"
+2,"{""Shooting"": 350, ""Defence"":170, ""Rebounding"":230,  ""Passing"":450,  ""Match_Power"":215, ""Fitness "":130, ""Dribbling"":350}"
+3,"{""Shooting"": 150, ""Defence"":230, ""Rebounding"":180,  ""Passing"":430,  ""Match_Power"":150, ""Fitness "":330, ""Dribbling"":390}"
+4,"{""Shooting"": 225, ""Defence"":275, ""Rebounding"":380,  ""Passing"":490,  ""Match_Power"":320, ""Fitness "":310, ""Dribbling"":500}"
+5,"{""Shooting"": 130, ""Defence"":190, ""Rebounding"":260,  ""Passing"":230,  ""Match_Power"":205, ""Fitness "":270, ""Dribbling"":150}"
+6,"{""Shooting"": 430, ""Defence"":280, ""Rebounding"":350,  ""Passing"":460,  ""Match_Power"":250, ""Fitness "":430, ""Dribbling"":340}"
+7,"{""Shooting"": 500, ""Defence"":320, ""Rebounding"":120,  ""Passing"":420,  ""Match_Power"":130, ""Fitness "":330, ""Dribbling"":350}"
