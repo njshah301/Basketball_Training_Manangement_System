@@ -27,6 +27,7 @@ Front End is developed in Python using PyWebIO library. The PostgreSQL database 
 ![image](https://user-images.githubusercontent.com/58663029/175395220-52ae5c46-fd72-4621-9bff-e2ca188b661e.png)
 
 ### Delete Contact Information
+![image](https://user-images.githubusercontent.com/58663029/175395815-0035e442-694e-435d-b07a-df2670d7a034.png)
 
 ### Deleted Successfully
 ![image](https://user-images.githubusercontent.com/58663029/175395400-40315fe6-b4cd-4d04-bcd7-6ae7cd9acfdb.png)
